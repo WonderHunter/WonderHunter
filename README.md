@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, Je m'appelle Loris</h1>
-<h3 align="center">Étudiant en BUT Informatique</h3>
+<h3 align="center">Étudiant en BUT MMI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wonderhunter&label=Nombre%20de%20vues%20du%20profil&color=0e75b6&style=flat-square" alt="wonderhunter" /> </p>
 
-- 🔭 Je suis en BUT Informatique **1ère année**
+- 🔭 Je suis en BUMMI **1ère année**
 
 <h3 align="left">Entrer en contact avec moi :</h3>
 <p align="left">
